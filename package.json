@@ -22,7 +22,7 @@
     "@oclif/plugin-plugins": "^2.4.3",
     "node-fetch": "^3.3.1",
     "open": "^9.1.0",
-    "yargs": "^17.7.1"
+    "yargs": "^17.7.2"
   },
   "devDependencies": {
     "@oclif/test": "^2.3.13",
