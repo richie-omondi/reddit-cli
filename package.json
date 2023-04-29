@@ -19,7 +19,7 @@
   "dependencies": {
     "@oclif/core": "^2",
     "@oclif/plugin-help": "^5",
-    "@oclif/plugin-plugins": "^2.4.3",
+    "@oclif/plugin-plugins": "^2.4.7",
     "node-fetch": "^3.3.1",
     "open": "^9.1.0",
     "yargs": "^17.7.1"
